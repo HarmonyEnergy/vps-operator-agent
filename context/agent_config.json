@@ -1,0 +1,6 @@
+{
+  "model": "gpt-3.5-turbo",
+  "max_iterations": 10,
+  "timeout_seconds": 30,
+  "task_description": "Create a Python script that generates a random joke using the official joke API (https://official-joke-api.appspot.com/random_joke) and displays it nicely formatted with the setup and punchline"
+}
