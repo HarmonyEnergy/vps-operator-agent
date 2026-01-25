@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual env
+.venv/
+
+# Runtime folders
+workspace/
+logs/
+outputs/
+
+# Secrets (never commit)
+*.env
+.env
+coding_agent.env
