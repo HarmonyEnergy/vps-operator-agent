@@ -4,7 +4,7 @@ import json
 from typing import Any, Dict, List
 
 from openai import OpenAI
-import tools_enhanced as tools
+import tools
 
 client = OpenAI()
 
