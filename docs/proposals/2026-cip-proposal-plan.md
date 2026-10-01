@@ -1,175 +1,160 @@
-# 2026 Distributed Wind CIP — Proposal Plan
+# 2026 Distributed Wind CIP — Partnering Plan (v2)
 
-**Solicitation:** 2026 Distributed Wind Turbine Competitiveness Improvement Project (CIP) RFP
-**Issuer:** National Laboratory of the Rockies (NLR), on behalf of DOE Wind Energy Technologies Office
-**Posted on:** SAM.gov (full and open)
-**Proposals due:** Thursday, 13 November 2026, 2:00 p.m. MST
-**Technical questions due:** Friday, 16 October 2026 (to Kyndall.Jackson@nlr.gov; Q&A amendment posted to SAM.gov)
-**Award type:** Firm fixed-price subcontract with price participation (cost share) plus NLR technical assistance
-**Expected period of performance:** begins spring 2027 (per NLR pre-solicitation)
-**Plan author:** Dan Clunies  |  **Plan date:** 1 October 2026
+**Solicitation:** RFP RFX-2026-10008, "2026 Distributed Wind Turbine Competitiveness Improvement Project" (CIP)
+**Issuer:** National Laboratory of the Rockies (NLR) for DOE Integrated Energy Systems Office
+**Issued:** 30 Sep 2026 · **Questions due:** 16 Oct 2026 · **Proposals due:** 13 Nov 2026, 2:00 p.m. MT
+**Award type:** Firm fixed price with price participation (cost share); milestone payments on NLR acceptance of deliverables
+**Period of performance:** 21 months per topic (Field Validation up to 60 months)
+**Plan owner:** Dan Clunies · **Revision:** v2, 1 Oct 2026 (replaces v1; based on the full RFP package, not press coverage)
 
 ---
 
-## 1. Decision summary
+## 1. Strategy change: support an offeror rather than be one
 
-| Item | Recommendation |
+The full RFP settles the question v1 left open. CIP is written for small U.S. manufacturers:
+
+- Programmatic factors are applied by the Selection Official "to curate a balanced, high-impact cohort across small American businesses." A large business is not barred, but is swimming upstream, and any award over $700k triggers a Small Business Subcontracting Plan and Appendix D terms.
+- Every topic is anchored to a specific turbine or power-electronics product with an OEM letter of commitment, Attachment 5 specs, an LCOE workbook, and percent-U.S.-manufacturing figures. A distributor or integrator cannot carry that alone.
+- Payment is on acceptance of deliverables with no progress payments, and the offeror certifies cost-share compliance on every invoice. That is a working-capital and False Claims Act exposure Harmony should not take on as prime.
+
+The better position is **a priced lower-tier subcontractor or in-kind cost-share partner** on one or two strong offerors' proposals. The RFP explicitly contemplates this: lower-tier price is shown separately, letters of commitment are required, and lower-tier contributions count toward price participation.
+
+**What we bring that offerors are scored on and usually lack:**
+
+| Scored sub-criterion (all topics) | Our asset |
 |---|---|
-| Lead proposal | **Topic: Inverter / power-electronics listing** for 50–150 kW distributed wind. Emerson as offeror, turbine OEM(s) as validation partners. |
-| Second proposal (conditional) | **Type Certification and Listing** of the ESPE FX series (50–100 kW) for the U.S. market, only if ESPE commits to U.S. assembly and funds the cost share. |
-| Do not pursue this round | Prototype design / manufacture topics (50% cost share, needs an in-house turbine design). |
-| Go / no-go date | **Friday 9 October 2026** |
-| Submit date (internal) | **Thursday 12 November 2026** (one-day buffer before the 2 p.m. MST deadline) |
-
-**Why this shape.** The 2026 RFP's four stated priorities are (a) tested and certified turbine options, (b) validation and commercialization, (c) power electronics built for distributed wind and listed to national safety standards, and (d) advanced manufacturing to cut hardware cost. Priority (c) is the one where a large U.S. electronics and controls company has an unfair advantage and where the industry gap is documented: the 2025 round funded XFlow specifically because there is a "lack of UL 1741-SB listed power conversion system options for distributed wind" in the 5–150 kW class, and funded Matric/Windurance to cut converter cost for 15–95 kW turbines. A listed, grid-support-capable converter that any mid-size OEM can buy is exactly what NLR says it wants.
-
----
-
-## 2. What we know and what we still need to confirm
-
-### Confirmed (from the NLR notice and the DWEA Summer 2026 bulletin)
-- 13 topic areas, each with its own cost-share percentage and funding cap.
-- Offerors must prove U.S. incorporation, demonstrate team skills/capabilities, and provide financial information.
-- Work must be performed in the U.S. or territories unless justified.
-- NLR provides technical assistance alongside the subcontract (lab engineers, test support, certification guidance).
-- A webinar is planned; registration will be on the NLR CIP webpage.
-
-### Unverified — the RFP PDF could not be retrieved from this environment (SAM.gov and nlr.gov are blocked)
-- The exact list of the 13 topics and their caps. The 2025 round had 10 topics (table below); three are new. Given the stated priorities, the likely additions are a power-electronics design/innovation topic distinct from listing, a field-validation topic, and an advanced-manufacturing topic.
-- Evaluation criteria and weights (2024 RFP used weighted criteria including Team/Personnel at 15%).
-- Page limits, volume structure, required forms, and the financial-disclosure template.
-- Whether in-kind cost share is accepted and in what form.
-
-**Action (Dan, by 2 Oct):** download the full RFP package and all attachments from SAM.gov, save to this folder, and update sections 2–4 of this plan.
-
-### 2025 round topic structure (baseline for planning)
-
-| 2025 topic | Max award | Cost share | 2026 relevance |
-|---|---|---|---|
-| Prototype Design Development | ~$150k–$400k | 20–50% | Low — needs own turbine design |
-| Prototype Manufacture | $800k | 50% | Low |
-| Prototype Installation and Testing | $400k | 20% | Medium — could pair with a converter field test |
-| Component Innovation | ~$400k | 20% | **High** — converter/controls as the component |
-| System Optimization | ~$400k | 20% | Medium |
-| Small Turbine Certification and/or Listing | ~$400k | 20% | Low (≤ small class) |
-| **Inverter Listing** | $800k | 20% | **Lead topic** |
-| **Type Certification and Listing** (turbines up to 1 MW) | $800k | 20% | **Second proposal** (ESPE FX) |
-| Manufacturing Process Innovation | ~$400k | 20% | Medium — U.S. converter or nacelle assembly |
-| Technology Commercialization | ~$150k–$400k | 20–50% | Medium — fleet validation data |
-
-Figures are from the 2025 RFP press coverage; confirm against the 2026 RFP before budgeting.
+| Impact on U.S. market, "expected sales," first-year U.S. installations | Agricultural / REAP channel, installed farm customer base, pipeline of qualified sites |
+| "Number of U.S. dealers/installers" (certification and listing topics) | Harmony as a committed dealer/installer, plus DWEA installer network |
+| Topic 12 alignment with the NLR Distributed Wind Futures Study ("agricultural lands, agricultural businesses, commercial and industrial, especially rural") | Direct ag-market experience, REAP application track record, farm case studies |
+| Topic 13 Field Validation sites in the U.S., monitoring, data to NLR | Existing ESPE 50–100 kW fleet on farms; host-site relationships; interconnection and permitting experience |
+| Team qualifications: on-time/on-budget project execution | PMP; turbine installation and commissioning history; root-cause investigation experience |
+| Price participation "beyond minimum" (programmatic factor) | In-kind labour, site access, installed hardware, monitoring equipment |
+| Power electronics topics: controls, listing path | Emerson affiliation (controls / power electronics), if cleared |
 
 ---
 
-## 3. Proposal A (lead): Listed power-conversion system for mid-size distributed wind
+## 2. Target offerors and the role to pitch
 
-**Working title:** *A UL 1741-SB / IEEE 1547-2018 listed, OEM-agnostic power conversion and control platform for 50–150 kW distributed wind turbines.*
+Ranked by fit and relationship strength. Aim for **two** confirmed partnerships; more dilutes the effort.
 
-**Offeror:** Emerson (U.S.-incorporated business unit to be named — confirm which legal entity holds SAM.gov registration, UEI, and will sign the subcontract).
+### A. Bergey Windpower (Norman, OK) — strongest
+- **Where they are:** Excel 15 listed to UL 6142 (May 2026); Excel 75 under a 2025 three-phase CIP award; prior rounds funded their inverter work.
+- **Likely 2026 bids:** Field Validation (T13, $500k, 50% cost share) of Excel 15/75 across wind regimes; Technology Commercialization (T12, $200k, 20%) into ag markets; possibly Power Electronics Listing (T10) for the Excel 75 converter.
+- **Our pitch:** For T13, Harmony supplies farm host sites in the Northeast/Mid-Atlantic (a different climate and wind regime from Oklahoma, which the SOW explicitly values), installation and commissioning labour, monitoring hardware as cost share, and interconnection/permitting. For T12, Harmony is the ag-market partner with "impactful scale of potential deployments" and runs the REAP/incentive-processing and dealer-training tasks the SOW allows.
+- **Commercial form:** priced lower-tier subcontract for labour and site work; in-kind cost share for site access and monitoring kit. Note the SOW steers NLR funds to labour, crane, install, interconnection, permitting, and foundations, and steers cost share to new equipment. Harmony's labour is therefore NLR-fundable.
+- **Owner / first call:** Dan to Mike Bergey, week of 5 Oct.
 
-**Problem statement (as NLR frames it).** Mid-size turbines (50–150 kW) are the sweet spot for farms and rural businesses, but almost none ship with a converter listed to UL 1741-SB with IEEE 1547-2018 grid-support functions. OEMs either adapt solar/ESS inverters (poor fit for variable-speed PMG generators, dynamic braking, and overspeed protection) or run unlisted equipment that triggers field evaluations, permitting delays, and utility interconnection rejections. This is a direct barrier to REAP-funded farm projects, which is the market Harmony served.
+### B. NPS Solutions (Darien, CT) — strong, mid-size match
+- **Where they are:** 2025 CIP award to certify NPS 100C-27 to ACP 101-1; prior inverter listing and component awards.
+- **Likely 2026 bids:** Field Validation of the certified 100C (surveillance of a newly certified turbine is a named T13 example); Technology Commercialization.
+- **Our pitch:** Harmony's 50–100 kW farm customers are exactly the 100C market. Offer host sites, installer capacity, and ag-market commercialization. NPS is in the Northeast, so geographic diversity is weaker than with Bergey; lead with site pipeline and installer capacity instead.
+- **Owner / first call:** Dan to NPS (Clint Connor), week of 5 Oct.
 
-**Technical approach (three phases, matching CIP's phase convention).**
-1. **Phase 1 — Requirements and design (months 1–6).** Interface spec covering PMG rectification, DC-link, dynamic brake/dump load control, grid-support functions (volt-VAR, freq-watt, ride-through), anti-islanding, and turbine supervisory I/O. Work with two or three OEM partners to define a common interface so one listing covers multiple turbines.
-2. **Phase 2 — Build and field validation (months 6–14).** Two field units on partner turbines at U.S. sites; data logging to IEC 61400-12 and IEEE 1547.1 test plans; NLR technical assistance for test design and data review.
-3. **Phase 3 — Listing (months 12–18).** NRTL certification to UL 1741 (3rd ed., Supplement SB) and IEEE 1547.1-2020; CSIP/DER interoperability where required; listing report to DOE and public summary.
+### C. Power-electronics developers needing a baseline turbine and field sites — XFlow Energy, Matric/Windurance
+- **Why they need us:** Every PE topic requires "identification of distributed wind turbine system(s) and application(s) in which the power electronics will be integrated" and OEM support. XFlow's 2025 PCS award targets 5–150 kW turbines generally; a 50–100 kW direct-drive PMG turbine with an installed U.S. fleet is a credible integration target and T13 validation vehicle.
+- **Our pitch:** Harmony brokers ESPE as a baseline turbine OEM (letter of commitment from ESPE, with Harmony as U.S. representative) and provides field-validation sites on existing installations. ESPE is a foreign lower-tier at most; it never needs to be the offeror.
+- **Caveat:** Appendix C-1 IP terms apply to foreign organisations; ESPE must be willing to accept them for any scope it performs. Keep ESPE's role to a letter of commitment and specs unless they want more.
+- **Owner / first call:** Dan to XFlow (Ian Hoffman) and Matric, week of 12 Oct, after A and B are gauged.
 
-**Partner shortlist (all DWEA members, all prior CIP recipients, which matters to evaluators):**
-- Bergey Windpower (Excel 15 listed to UL 6142; Excel 75 in development under 2025 CIP) — a listed converter for the Excel 75 is a natural fit.
-- NPS Solutions (NPS 100C) — 100 kW class, prior inverter-listing award.
-- ESPE (via Harmony) — FX series 50–100 kW direct-drive PMG, currently relying on third-party converters.
-- Carter Wind, Pecos Wind Power — larger class, optional.
-- Windurance/Matric — potential competitor; decide early whether to compete or team.
+### D. Emerson as a subcontractor, not an offeror
+- If the Emerson business unit has a relevant controls or power-conversion platform, the right place for it is as a **lower-tier supplier to a small-business offeror** on T8/T9/T10, where it strengthens "team qualifications" without triggering the large-business programmatic penalty or the subcontracting-plan requirement on the offeror.
+- **Gate:** Dan's employer must clear (i) Harmony side activity and (ii) any Emerson participation, and the Organizational Conflict of Interest representation must be answered honestly. Do not raise Emerson with any offeror until that clearance exists.
 
-**Budget framing.** Target the topic cap (historically $800k for inverter listing at 20% cost share, so roughly $1.0M total project value with $200k cost share). Emerson in-kind engineering time is the simplest cost-share source if the RFP allows it; otherwise cash.
-
-**Scoring strengths to write to:** U.S. manufacturing footprint, documented quality system, NRTL relationships, prior IEEE 1547 listing experience, and a commercialization path that does not depend on any single turbine OEM surviving.
-
-**Scoring risks to pre-empt:**
-- Evaluators have historically funded small manufacturers. Address head-on: the award buys down the OEM-agnostic listing that no single small OEM can afford, and the product will be sold to all of them. Letters of intent from at least three OEMs are essential.
-- "Why does Emerson need DOE money?" Answer with market size (hundreds of units per year, not tens of thousands), the NRTL cost that no OEM will fund alone, and the explicit RFP priority.
-
----
-
-## 4. Proposal B (conditional): Type Certification and Listing — ESPE FX series for the U.S. market
-
-**Offeror options:** (i) Harmony Energy Solutions (U.S.-incorporated; thin balance sheet after the 2025 REAP pause, which will show in the required financial disclosure), or (ii) a newly formed U.S. ESPE subsidiary or JV with Harmony as commercialization lead. Option (ii) is stronger on financials and on the "U.S. manufacturer" optics.
-
-**Scope:** ANSI/ACP 101-1 (or IEC 61400-1 class) type certification plus UL 6141 listing of the FX EVO 21-50 / 30B-100, with U.S. nacelle or tower assembly to satisfy work-location rules and improve domestic-content positioning for 45X / ITC.
-
-**Gating questions (submit to NLR by 16 Oct):**
-1. Is a turbine designed outside the U.S. eligible for Type Certification and Listing if the offeror is U.S.-incorporated and final assembly, testing, and certification are performed in the U.S.?
-2. Can a U.S. distributor/commercialization partner be the offeror with the foreign OEM as a subcontractor?
-3. Is in-kind cost share (engineering labour, test hardware, site access) acceptable and at what valuation rules?
-4. May one offeror submit to more than one topic, and may the same organisation appear as a partner on another offeror's proposal?
-5. For inverter listing, must the listed unit be tied to a specific turbine model, or is an OEM-agnostic listing acceptable?
-
-**Go only if** ESPE confirms in writing by 9 October: U.S. assembly commitment, cost-share funding, and release of design documentation to the certification body.
+### E. Opportunistic
+- Sonsight Wind (SS3 certification testing began Jan 2026): T13 surveillance of a newly certified small turbine; T12. Small dollars but easy fit.
+- Pecos Wind Power, Carter Wind: larger machines; only if they ask.
 
 ---
 
-## 5. Compliance checklist (both proposals)
+## 3. What we must have ready for any partner (by 19 Oct)
 
-- [ ] SAM.gov registration active and UEI confirmed for the offeror entity (new registrations take 2–6 weeks — **start immediately** if Harmony or a new entity is the offeror)
-- [ ] Proof of U.S. incorporation (certificate of good standing)
-- [ ] Financial information per RFP template (likely last two years' statements; Emerson will need a business-unit-level approach agreed with corporate finance)
-- [ ] Key-personnel resumes and a team matrix mapping expertise to tasks
-- [ ] Letters of commitment from partners, including cost-share commitment language
-- [ ] Work-location statement (all tasks in U.S.; justify any exception)
-- [ ] Budget by phase and by task, firm fixed price, with milestone payment schedule
-- [ ] Cost-share schedule matched to milestones
-- [ ] IP and data-rights review (DOE flowdowns; NLR technical assistance implies data sharing)
-- [ ] Export-control screen if ESPE design data is involved
-- [ ] Emerson legal/contracts sign-off on subcontract terms before submission
-- [ ] Webinar attended and Q&A amendment incorporated
+1. **One-page capability statement** for Harmony: ag/REAP channel, installed base and operating data, installer capacity, geographies served, PMP, DWEA roles. Written to the evaluation language in Section 1 above.
+2. **Site pipeline sheet** for Field Validation: 6–10 candidate farm hosts with owner interest, wind resource (reference 6 m/s at 30 m, Rayleigh), utility and interconnection voltage (must be below 69 kV), permitting status, and crane access. Include at least one host outside the offeror's home region.
+3. **Letter of commitment template** (RFP requires one for every defined partner) and an **in-kind cost-share schedule** valued at FAR-allowable rates. Legal fees are unallowable; do not list them.
+4. **Draft lower-tier price proposal** by task, matching the offeror's Attachment 6 deliverable table, so the offeror can drop it into the NLR Price/Cost form. Lower-tier price must be shown separately with support.
+5. **Resume** formatted for the "Team Qualifications" appendix (resumes do not count against the 15/20-page limit).
+6. **Attachment 5 data** for the ESPE FX EVO 21-50 and 30B-100 (rotor, swept area, PMG, output voltage, AEP at 6 m/s Rayleigh) in case a PE developer wants ESPE as baseline turbine.
+7. **Compliance notes for the offeror:** Section 889 covered-telecom prohibition applies to monitoring and comms hardware (no Huawei, ZTE, Hytera, Hikvision, Dahua); DOE O 486.1A talent-program disclosures if any work occurs on an NLR site; publicity requires NLR approval; data first produced under the subcontract is a deliverable.
 
 ---
 
-## 6. Schedule (working back from 13 Nov 2026, 2 p.m. MST)
+## 4. Questions to submit to NLR by 16 Oct (or to feed to partners to submit)
+
+1. Does the 15/20-page limit include the Appendix items the example outline marks "not included in page count" (Attachments 3–6, letters, price proposal), given the sentence that says attachments and appendices count?
+2. For Field Validation, may an installer or dealer that is not the OEM be the priced lower-tier performing installation, commissioning, and monitoring, with the OEM as offeror?
+3. May one organisation appear as a lower-tier partner on multiple proposals from different offerors?
+4. Can in-kind contributions by a lower-tier (site access, installed equipment, labour) be counted toward the offeror's price participation, and what valuation and documentation is required?
+5. For Power Electronics topics, may the baseline turbine be a foreign-designed turbine with an active U.S. installed base and a U.S. representative, with the foreign OEM providing the letter of commitment?
+6. Mandatory qualification 4.5 ("has all recent relevant certification and design standards"): does this require possession of the standards documents, or certification status?
+
+---
+
+## 5. RFP facts the plan relies on (verified from the package)
+
+### Topics, caps, cost share
+
+| # | Topic | Max NLR | Min cost share | Our likely role |
+|---|---|---|---|---|
+| 1 | Prototype Design Development | $200k | 20% | none |
+| 2 | Prototype Manufacture | $800k | 50% | none |
+| 3 | Prototype Installation and Testing | $400k | 20% | host site, installer |
+| 4 | Component Innovation | $400k | 20% | none |
+| 5 | System Optimization | $400k | 20% | none |
+| 6 | Small Turbine Certification and/or Listing (≤150 kW, ACP 101-1) | $300k | 20% | surveillance sites ("up to five installed turbines"), dealer letter |
+| 7 | Type Certification and Listing (IECRE OD 501 / 554-1) | $800k | 20% | dealer letter |
+| 8 | Power Electronics Development (new) | $400k | 20% | baseline-turbine broker |
+| 9 | Power Electronics Pre-Testing (new) | $800k | 20% | baseline-turbine broker |
+| 10 | Power Electronics Listing (UL 1741-SB) | $800k | 20% | baseline-turbine broker |
+| 11 | Manufacturing Process Innovation | $800k | 50% | none |
+| 12 | Technology Commercialization | $200k | 20% | **ag-market partner** |
+| 13 | Field Validation (any size, <69 kV, U.S. only, up to 60 months) | $500k | 50% | **sites, install, monitoring, cost share** |
+
+### Scoring (identical for all topics, 105 points)
+Technical approach and readiness 25 · Plan and budget 25 · Impact on U.S. market 25 · Team qualifications 25 · Programmatic factors 5 (portfolio balance: manufacturer, geography, configuration, topic, size, type diversity; cost share beyond minimum; technical-assistance plan; near-term commercialization; domestic effort). Qualitative merit is "substantially more important than price."
+
+### Format
+Electronic PDFs to Kyndall.Jackson@nlr.gov, zipped. 12-point font, 1-inch margins, 15 pages single-topic, 20 pages phased multi-topic (up to three topics, serial, with go/no-go between phases). Resumes and SOW-change attachment excluded. Over-length pages are removed by NLR.
+
+### Pass/fail
+U.S. incorporation (W-9 plus Attachment 3); electrical-power output; U.S. work location unless justified; all-new hardware; "has all recent relevant certification and design standards." Missing Attachment 3 or W-9 is fatal.
+
+### Subcontract terms that matter to a partner
+- Firm fixed price, paid on NLR acceptance of each deliverable; NLR may withhold for late reports; final payment after closeout.
+- Price participation is a joint obligation of the offeror and its lower-tiers, certified on every invoice.
+- Proposal technical data becomes usable by the Government unless specific pages are marked proprietary.
+- Publicity, news releases, and publications need NLR/DOE approval; patent clearance before publication.
+- Key personnel named in the subcontract cannot be swapped without a modification.
+- Appendix B-2, C-1/C-2, D, and F are incorporated by reference and must be pulled from nlr.gov/workingwithus/standard-terms.html (export control, audit, termination, indemnity live there).
+- Workers' compensation proof before work starts; noncompliance is a material breach.
+
+---
+
+## 6. Schedule
 
 | Date | Milestone | Owner |
 |---|---|---|
-| Thu 1 Oct | Plan drafted (this document) | Dan |
-| Fri 2 Oct | RFP package downloaded from SAM.gov; webinar registered; email Kyndall Jackson to be added to the update list | Dan |
-| Mon 5 Oct | Identify Emerson offeror entity, SAM.gov/UEI owner, and executive sponsor; confirm internal bid process | Dan + Emerson BU lead |
-| Tue 6 – Thu 8 Oct | Partner outreach calls: Bergey, NPS, ESPE, (Carter/Pecos optional). Ask for LOI and cost-share appetite | Dan |
-| Fri 9 Oct | **Go / no-go** on Proposal A and B; freeze topic selection | Sponsor |
-| Wed 14 Oct | Submit technical questions (two-day buffer before 16 Oct) | Dan |
-| Mon 19 – Fri 30 Oct | Draft technical volume, work plan, budget, team section; collect LOIs and resumes | Dan + engineering lead |
-| Mon 2 Nov | Q&A amendment review; adjust scope | Dan |
-| Tue 3 – Fri 6 Nov | Red-team review; legal, finance, export-control sign-off | Reviewers |
-| Mon 9 – Wed 11 Nov | Final edits, forms, cost-share letters, compliance check | Dan |
-| **Thu 12 Nov** | **Submit** | Dan |
-| Fri 13 Nov, 2 p.m. MST | Deadline | — |
+| Fri 2 Oct | Employer clearance request for Harmony side activity and any Emerson role | Dan |
+| Mon 5 – Thu 8 Oct | Calls: Bergey, NPS. Ask: which topics they are bidding, whether they want sites/installer/ag partner, deadline for partner material | Dan |
+| Fri 9 Oct | Decide which two partnerships to commit to | Dan |
+| Mon 12 – Wed 14 Oct | Calls: XFlow, Matric (if a PE play is open); send NLR questions (or hand to partners) | Dan |
+| Mon 19 Oct | Capability statement, site pipeline, LOI template, in-kind schedule, resume delivered to partners | Dan |
+| Fri 23 Oct | Draft lower-tier price proposal and task narrative delivered to each partner | Dan |
+| Fri 30 Oct | Q&A amendment review; adjust | Dan |
+| Mon 2 – Fri 6 Nov | Partners' internal reviews; sign letters of commitment; ESPE letter if needed | Dan + partners |
+| Tue 10 Nov | Final partner deliverables locked | Dan |
+| Fri 13 Nov 2 p.m. MT | Partners submit | Offerors |
 
 ---
 
-## 7. Competitive landscape (2025 awards, for context)
+## 7. Open decisions for Dan
 
-Five companies, six projects, $4.4M DOE funding with $2.3M private cost share:
-- Bergey Windpower — Excel 75 development and certification (three phases)
-- Matric Limited — 20% cost reduction on Windurance UL-listed inverters/converters for 15–95 kW turbines (manufacturing process)
-- NPS Solutions — ACP 101-1 certification of NPS 100C-27
-- Wetzel Wind Energy Services — new Skystream blade
-- XFlow Energy — (1) VAWT prototype manufacture, install, test, certify; (2) power conversion and control system toward UL 1741-SB listing, targeting 5–150 kW turbines
-
-Implication: the power-electronics lane has two incumbents (Matric/Windurance, XFlow). Differentiate on OEM-agnostic design, grid-support certification depth (IEEE 1547-2018 full compliance), and production scale, not on "first to list".
-
----
-
-## 8. Open items for Dan
-
-1. Which Emerson business unit and legal entity would be the offeror, and who is the executive sponsor? This decides whether Proposal A is viable at all.
-2. Does Emerson have an existing UL 1741 / IEEE 1547 listed inverter platform that can be adapted, or is this a new product? The answer sets Phase 1 scope and budget.
-3. Does ESPE want the U.S. market badly enough to fund Proposal B's cost share and commit to U.S. assembly?
-4. Is Harmony Energy Solutions' SAM.gov registration current?
-5. Confirm there is no conflict between Dan's Emerson role and a Harmony-led submission; if both proposals go in, keep the teams and cost-share sources separate.
+1. Employer clearance: can Harmony take paid lower-tier work during this period, and may Emerson be mentioned at all?
+2. Which hosts in the installed fleet would agree to monitoring and data sharing with NLR?
+3. Is ESPE willing to sign a letter of commitment as baseline turbine OEM for a U.S. power-electronics developer, under Appendix C-1 terms?
+4. Appetite for in-kind cost share versus priced labour: in-kind raises the offeror's score on programmatic factors; priced labour pays Harmony. Recommend a mix, with labour priced and site access and monitoring kit in-kind.
 
 ---
 
 ## Sources
-- NLR RFP notice email, Kyndall Jackson, Senior Subcontract Administrator (received by Dan, forwarded 1 Oct 2026)
-- DWEA Summer 2026 Bulletin, "NLR Previews Next Round of Distributed Wind CIP Funding"
-- DWEA Jan–Feb 2026 Bulletin, "2025 Competitiveness Improvement Project selections announced"
-- NLR/NREL CIP program page and 2025 RFP press coverage (topic list and award caps)
-- SAM.gov pre-solicitation 4c7006e313044ff08d03719b67007d7b (summary only; full text not retrievable from this environment)
+- RFP RFX-2026-10008 body (33 pp), Attachment 1 Statement of Work (9/14/2026), Attachment 2 Sample Subcontract, Attachment 3 Eligibility Verification, Attachment 4 Figure of Merit and LCOE workbook, Attachment 5 Specifications, Attachment 6 Deliverable Summary Table 2026
+- DWEA Summer 2026 and Jan–Feb 2026 Bulletins (2025 award list)
